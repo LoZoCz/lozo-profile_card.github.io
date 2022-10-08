@@ -1,0 +1,9 @@
+@media (max-width: 500px)
+{
+    body
+    {
+        background-image: url(images/bg-pattern-bottom.svg), url(images/bg-pattern-top.svg);
+        background-position: bottom 135% right 120%, top 50% left 130%;
+        background-size: auto;
+    }
+}
